@@ -1,0 +1,44 @@
+[*]
+[*] GTKWave Analyzer v3.3.125 (w)1999-2025 BSI
+[*] Fri Nov 14 20:10:24 2025
+[*]
+[dumpfile] "/home/isaacd/Documents/Projects/Verilogtuts/Booths_Algorithm/top.vcd"
+[dumpfile_mtime] "Fri Nov 14 20:00:22 2025"
+[dumpfile_size] 5064
+[savefile] "/home/isaacd/Documents/Projects/Verilogtuts/Booths_Algorithm/top_sim.gtkw"
+[timestart] 0
+[size] 1600 808
+[pos] -1 -1
+*-13.088521 2000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top_tb.
+[treeopen] top_tb.dut.
+[treeopen] top_tb.dut.DP1.
+[sst_width] 209
+[signals_width] 199
+[sst_expanded] 1
+[sst_vpaned_height] 229
+@28
+top_tb.clk
+top_tb.rst
+@22
+top_tb.multiplicand[7:0]
+top_tb.multiplier[3:0]
+top_tb.product[8:0]
+@28
+top_tb.dut.muxsel
+top_tb.dut.load
+top_tb.dut.ALUop[2:0]
+top_tb.dut.out_enable
+top_tb.dut.shift_amount[2:0]
+top_tb.dut.shift_direction
+top_tb.dut.to_cmp0[2:0]
+top_tb.dut.to_cmp1[2:0]
+top_tb.dut.CU1.PS[1:0]
+top_tb.dut.CU1.NS[1:0]
+@200
+-cmp_from_dp
+@28
+top_tb.dut.DP1.compare0.X[2:0]
+top_tb.dut.DP1.compare0.Y[2:0]
+[pattern_trace] 1
+[pattern_trace] 0
